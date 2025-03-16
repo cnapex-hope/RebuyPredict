@@ -1,8 +1,7 @@
 # RebuyPredict
 复购预测,代码见PreReBuy
-Table of Contents
 # 数据处理和特征构建
-1.1  特征工程：
+1.1  特征工程：/
 1.2  填充缺失值
 1.3  查看变量分布
 1.4  特征构造
